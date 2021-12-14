@@ -1,0 +1,25 @@
+.logo{
+   text-decoration: none;
+   color:white;
+   font-size: 24px;
+   font-weight: 600;
+   background-color: lightslategray;
+   padding:10px 20px;
+}
+.logo:hover{
+   color:white;
+}
+.menu a{
+   padding:0 7px;
+   text-decoration: none;
+   color:silver;
+   transition:all 0.2s ease;
+}
+.menu a:hover{
+   padding:0 7px;
+   text-decoration: none;
+   color:black;
+}
+.ws-nowrap{
+   white-space:nowrap;
+}
